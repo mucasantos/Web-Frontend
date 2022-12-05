@@ -1,0 +1,29 @@
+
+h1 {
+  text-align: center;
+  background-color: aliceblue;
+}
+
+
+
+div {
+  border: 5px solid rebeccapurple;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.add-cart {
+  border: none;
+  color: white;
+  background-color: rebeccapurple;
+  padding: 10px;
+  width: 100%;
+  font-size: 20px;
+  border-top: 5px solid rebeccapurple;
+  text-transform: uppercase;
+}
+
+button:hover {
+  color: black;
+  background-color: white;
+}
